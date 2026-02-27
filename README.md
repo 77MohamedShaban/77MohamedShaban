@@ -46,11 +46,11 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics (Token Ready)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=77MohamedShaban&show_icons=true&theme=tokyonight&hide_border=true&token=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" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77MohamedShaban&layout=compact&theme=tokyonight&hide_border=true&token=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" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=77MohamedShaban&show_icons=true&theme=tokyonight&hide_border=true&token=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" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77MohamedShaban&layout=compact&theme=tokyonight&hide_border=true&token=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" />
 </p>
 
 ---
@@ -82,7 +82,7 @@
 ## 📄 Download My CV
 
 <p align="center">
-  <a href="">
+  <a href="PUT_YOUR_CV_LINK_HERE">
     <img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
