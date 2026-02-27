@@ -58,7 +58,7 @@
 
 ---
 
-## 🔥 Contribution Activity (Snake Animation)
+## 🔥 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/77MohamedShaban/77MohamedShaban/output/github-contribution-grid-snake.svg" />
