@@ -46,11 +46,14 @@
 
 ---
 
-## 📊 GitHub Analytics (Token Ready)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=77MohamedShaban&show_icons=true&theme=tokyonight&hide_border=true&token=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" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77MohamedShaban&layout=compact&theme=tokyonight&hide_border=true&token=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" />
+  <img src="https://github-readme-stats.vercel.app/api?username=77MohamedShaban&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=77MohamedShaban&theme=tokyonight" />
 </p>
 
 ---
@@ -59,14 +62,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/77MohamedShaban/77MohamedShaban/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=77MohamedShaban&theme=algolia&no-frame=true&row=1" />
 </p>
 
 ---
@@ -82,7 +77,7 @@
 ## 📄 Download My CV
 
 <p align="center">
-  <a href="PUT_YOUR_CV_LINK_HERE">
+  <a href="https://drive.google.com/file/d/1AP8pCVS3zy29MRudDaM5mIvx0dCOFkLB/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
