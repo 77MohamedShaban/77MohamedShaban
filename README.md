@@ -73,7 +73,7 @@
 ## 📄 Download My CV
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1AP8pCVS3zy29MRudDaM5mIvx0dCOFkLB/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1LyHdIu2wkRPrUwxIBM5WmDbeph5vUOaj/view?usp=sharing">
     <img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
